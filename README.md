@@ -1,7 +1,8 @@
 # factorials
 find factorial of any number using recursion in python
 
-recursion is process in which we call a function calls it self.
+recursion is process in which a function calls it self.
+
 note: adding a condition statement in necessary while using recursion beacuse the programe may start running in a never ending loop and end up crashing tha terminal!
 
 here for finding the factorial of the given number
